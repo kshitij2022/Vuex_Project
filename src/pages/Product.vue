@@ -1,6 +1,6 @@
 <template>
   <!-- <div>Product {{id}}</div> -->
-  <div class="row m-2">
+  <div class="row m-5">
     <div class="col-4 border border-dark">
         <img src="https://rukminim1.flixcart.com/image/800/960/kxxl9jk0/watch/9/8/x/1-hl-2022-new-trending-full-black-round-waterproof-gym-fitness-original-imaga9u8te7hghvz.jpeg?q=50" class="img-fluid" style="max-height:450px" alt="">
     </div>
