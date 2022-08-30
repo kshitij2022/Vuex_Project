@@ -14,3 +14,11 @@ export const getProduct =({ commit }, productId )=>{
     console.log("data",response.data);
     })
 }
+
+
+
+
+
+// http://localhost:3000/posts
+// http://localhost:3000/posts
+    

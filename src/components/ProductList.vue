@@ -22,9 +22,10 @@ export default {
             return this.$store.state.products;
         }
     },
-    mounted(){
+     mounted(){
         this.$store.dispatch('getProducts');
-    }
+    },
+
 };
 </script>
 
